@@ -55,7 +55,7 @@
 <!-- Frameworks y motores -->
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".net" width="40" height="40"/></a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/></a>
-<a><img src="https://cdn.worldvectorlogo.com/logos/pygame.svg" alt="pygame" width="40" height="40"/></a>
+
 
 <!-- Herramientas -->
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
